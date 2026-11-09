@@ -1,6 +1,6 @@
 # Kochi-Water-metro-and-customer-Analysis
 Developed an Excel dashboard to analyze Kochi Water Metro passenger activity, ticket revenue, customer profiles, travel routes, and usage patterns across different months.
-# Kochi Water Metro – Customer & Sales Analysis
+# Kochi Water Metro – Customer & Revenue Analysis
 
 ## Project Overview
 
