@@ -9,7 +9,6 @@ Developed an interactive Excel dashboard to analyze Kochi Water Metro passenger 
 ## Dashboard Preview
 <img width="1801" height="958" alt="Screenshot 2026-11-09 120645" src="https://github.com/user-attachments/assets/22c069a1-ed02-4e68-b86d-a9b9e20862e1" />
 
-![Kochi Water Metro Dashboard](YOUR_IMAGE_PATH)
 
 ## Tools Used
 - Microsoft Excel
